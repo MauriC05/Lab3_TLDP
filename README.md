@@ -12,5 +12,9 @@ Question 2: Windows has the highest percentage of unanswered questions(36.04%). 
 
 Question 3: Querying BigQuery is different from querying a local CSV file because when you query from BigQuery, the data is already structured in a way that makes it much easier to pull apart and you also are using Google's technology for storage and file management. Overall, BigQuery is much more organized than a local file.
 
-Question 4: If I were a Developer Advocate or Product Manager at Stack Overflow, I would use these results to implement features that may decrease engagement scores, like an AI assistant that can answer questions before they are posted, helping those who want to post questions that may not have much engagement get an answer before posting them.  I think adding communities, instead of just tags, where people can socialize easier and have their questions answered quicker would also be a great implementation.
+Question 4: If I were a Developer Advocate or Product Manager at Stack Overflow, I would use these results to implement features that may decrease engagement scores, like an AI assistant
+that can answer questions before they are posted, helping those who want to post questions that may not have much engagement get an answer before posting them.  I think adding communities, instead of just tags, where people can socialize easier and have their questions answered quicker would also be a great implementation.
+
+<img width="1366" height="768" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/fbce2809-ab21-4167-b7bb-e8776bcb02b1" />
+<img width="1366" height="768" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/48d30e5d-f270-4243-96b3-ea0359470b8b" />
 
